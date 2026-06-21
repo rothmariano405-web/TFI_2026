@@ -1,6 +1,6 @@
 ## Trabajo Intregador Final
 ## Integrantes del equipo
-- Juan
+- Juan Lange
 - Mariano Exequiel Roth
 - Nicolás Mauricio Salemme
 - Emmanuel Sanchez
