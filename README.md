@@ -2,7 +2,7 @@
 ## Integrantes del equipo
 - Juan
 - Mariano Exequiel Roth
-- Nicolás M. Salemme
+- Nicolás Mauricio Salemme
 - Emmanuel Sanchez
 ## Carrera
 Tecnicatura Universitaria en Telecomunicaciones
