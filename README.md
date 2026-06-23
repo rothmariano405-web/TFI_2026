@@ -3,7 +3,7 @@
 - Juan Lange
 - Mariano Exequiel Roth
 - Nicolás Mauricio Salemme
-- Emmanuel Sanchez
+- Emmanuel Alejandro Sánchez Álvarez
 ## Carrera
 Tecnicatura Universitaria en Telecomunicaciones
 ## Materia
